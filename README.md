@@ -1,4 +1,4 @@
-# sunseeker
+# Sun Seeker
 Find out how far you have to travel within the US in order to substantially increase the chance of experiencing a sunny day, for a given month in the year. 
 
 For example, it's harder to get a better chance of sunlight in the Boston area than Boston itself. The horizontal red dashed line is the percentage of days with sunlight in the given city. The vertical dashed lines are placed at increments of 60 miles.
